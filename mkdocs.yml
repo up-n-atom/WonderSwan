@@ -1,3 +1,6 @@
-site_name: My Docs
+site_name: WonderSwan
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github-alt
+repo_url: https://github.com/up-n-atom/WonderSwan
